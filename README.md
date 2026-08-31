@@ -1,4 +1,4 @@
-# 🎓 Learning Path Recommender
+# 🎓 MENTORA
 
 > An AI-powered personalized learning platform that helps students discover what to learn, track their progress, identify skill gaps, and follow an adaptive learning path.
 
